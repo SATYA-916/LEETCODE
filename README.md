@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATYA-916/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SATYA-916/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Two Pointers
@@ -46,10 +47,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SATYA-916/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SATYA-916/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 <!---LeetCode Topics End-->
