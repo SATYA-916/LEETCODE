@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SATYA-916/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATYA-916/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SATYA-916/LEETCODE/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/SATYA-916/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SATYA-916/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SATYA-916/LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/SATYA-916/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
