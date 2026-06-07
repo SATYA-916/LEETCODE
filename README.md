@@ -68,9 +68,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/SATYA-916/LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/SATYA-916/LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/SATYA-916/LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/SATYA-916/LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
