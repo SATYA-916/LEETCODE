@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SATYA-916/LEETCODE/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/SATYA-916/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SATYA-916/LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/SATYA-916/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SATYA-916/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/SATYA-916/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
