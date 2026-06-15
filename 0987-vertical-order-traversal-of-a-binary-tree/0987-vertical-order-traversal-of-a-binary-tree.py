@@ -16,16 +16,15 @@ class Solution:
                 d1[res].append([row,node.val])
             help(res-1,node.left,row+1)
             help(res+1,node.right,row+1)
-            return d1
-        d=help(0,root,0)
+        help(0,root,0)
         l=[]
-        print(d1)
         for key, value in sorted(d1.items()):
             value.sort()
             an=[]
             for i in value:
                 an.append(i[1])
             l.append(an)
+            print(l)
         return l
             
 
