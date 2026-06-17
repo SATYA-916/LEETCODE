@@ -1,25 +1,34 @@
 class Solution:
     def processStr(self, s: str, k: int) -> str:
-        st=[]
+        ans = 0
+
         for i in s:
             if i.isalpha():
-                st.append(i)
-            if i=='#':
-                ans=st.copy()
-                for i in st:
-                    ans.append(i)
-                st=ans
-            if i=='%':
-                ans=[]
-                while(st):
-                    ans.append(st.pop())
-                st=ans
-            if i=="*":
-                st.pop()
-        if k>=len(st):
-            return "."
-        return st[k]
+                ans += 1
+            elif i == '#':
+                ans *= 2
+            elif i == '%':
+                pass
+            elif i == '*' and ans > 0:
+                ans -= 1
 
-# Synced seamlessly with LeetHub Pro
-# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
+        if k >= ans:
+            return "."
+
+        for i in s[::-1]:
+            if i.isalpha():
+                if k == ans - 1:
+                    return i
+                ans -= 1
+
+            elif i == '#':
+                ans //= 2
+                k %= ans
+
+            elif i == '%':
+                k = ans - 1 - k
+
+            elif i == '*':
+                ans += 1
+
+        return "."
