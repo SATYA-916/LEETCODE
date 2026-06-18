@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/SATYA-916/LEETCODE/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SATYA-916/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SATYA-916/LEETCODE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SATYA-916/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
