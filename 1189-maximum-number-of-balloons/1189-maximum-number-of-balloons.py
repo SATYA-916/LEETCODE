@@ -12,3 +12,7 @@ class Solution:
             m=min(m,d[i])
         return min(m,d['o']//2,d['l']//2)
         
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
