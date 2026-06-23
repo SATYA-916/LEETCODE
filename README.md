@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SATYA-916/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/SATYA-916/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0047-permutations-ii](https://github.com/SATYA-916/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATYA-916/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/SATYA-916/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/SATYA-916/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SATYA-916/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/SATYA-916/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -185,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/SATYA-916/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/SATYA-916/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
