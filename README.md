@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SATYA-916/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATYA-916/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SATYA-916/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/SATYA-916/LEETCODE/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/SATYA-916/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SATYA-916/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
