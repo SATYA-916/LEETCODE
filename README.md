@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/SATYA-916/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0592-fraction-addition-and-subtraction](https://github.com/SATYA-916/LEETCODE/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SATYA-916/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/SATYA-916/LEETCODE/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SATYA-916/LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/SATYA-916/LEETCODE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -215,4 +216,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SATYA-916/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/SATYA-916/LEETCODE/tree/main/1392-longest-happy-prefix/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/SATYA-916/LEETCODE/tree/main/1392-longest-happy-prefix/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/SATYA-916/LEETCODE/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
