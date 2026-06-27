@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/SATYA-916/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0868-binary-gap](https://github.com/SATYA-916/LEETCODE/tree/main/0868-binary-gap/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/SATYA-916/LEETCODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SATYA-916/LEETCODE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Linked List
