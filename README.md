@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/SATYA-916/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/SATYA-916/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SATYA-916/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SATYA-916/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/SATYA-916/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SATYA-916/LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SATYA-916/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SATYA-916/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Greedy
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SATYA-916/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SATYA-916/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
