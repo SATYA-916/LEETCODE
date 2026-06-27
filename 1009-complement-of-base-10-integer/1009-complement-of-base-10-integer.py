@@ -1,16 +1,33 @@
 class Solution:
     def bitwiseComplement(self, n: int) -> int:
-        x,ans,re,j=bin(n)[2:],"",0,0
-        for i in x:
-            if int(i)==0:
-                ans=ans+'1'
-            else:
-                ans=ans+'0'
-        for i in range(len(ans)-1,-1,-1):
-            if ans[i]=='1':
-                re=re+(2**j)
+        x,j=0,0
+        if n==0:
+            return 1
+        while(n):
+            if n&1==0:
+                temp=1<<j
+                x=temp|x
             j+=1
-        return re
+            n=n>>1
+        return x
+
+
+
+
+
+
+
+
+
+        #     temp=n&1
+        #     x=x<<1
+        #     n=n>>1
+        #     if temp==1:
+        #         x=x|0
+        #     else:
+        #         x=x|1
+        #     print(temp,x&1)
+        # print(bin(x))
 
 
         
