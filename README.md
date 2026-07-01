@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/SATYA-916/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/SATYA-916/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SATYA-916/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SATYA-916/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SATYA-916/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0162-find-peak-element](https://github.com/SATYA-916/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SATYA-916/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Math
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SATYA-916/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,4 +251,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SATYA-916/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
