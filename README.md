@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/SATYA-916/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SATYA-916/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SATYA-916/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SATYA-916/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +262,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
