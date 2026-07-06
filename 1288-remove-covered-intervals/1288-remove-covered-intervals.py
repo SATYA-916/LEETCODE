@@ -1,13 +1,12 @@
 class Solution:
     def removeCoveredIntervals(self, inter: List[List[int]]) -> int:
-        c=0
-        for i in range(len(inter)):
-            for j in range(len(inter)):
-                if i!=j:
-                    if inter[j][0]<=inter[i][0] and inter[j][1]>=inter[i][1]:
-                        c+=1 
-                        break
-        return len(inter)-c  
+        inter.sort(key=lambda x: (x[0], -x[1]))
+        m,c=float('-inf'),0
+        for i in inter:
+            if m<i[1]:
+                c+=1
+                m=i[1]
+        return c
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
