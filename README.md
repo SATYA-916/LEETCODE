@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SATYA-916/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SATYA-916/LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
