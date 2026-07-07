@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/SATYA-916/LEETCODE/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1323-maximum-69-number](https://github.com/SATYA-916/LEETCODE/tree/main/1323-maximum-69-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/SATYA-916/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SATYA-916/LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SATYA-916/LEETCODE/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/SATYA-916/LEETCODE/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1323-maximum-69-number](https://github.com/SATYA-916/LEETCODE/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SATYA-916/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/SATYA-916/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SATYA-916/LEETCODE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
