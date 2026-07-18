@@ -1,6 +1,9 @@
 class Solution:
     def findGCD(self, nums: List[int]) -> int:
-        return math.gcd(max(nums),min(nums))
+        def h(a,b):
+            if b==0: return a
+            return h(b,a%b)
+        return h(max(nums),min(nums))
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
