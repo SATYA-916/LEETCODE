@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/SATYA-916/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0047-permutations-ii](https://github.com/SATYA-916/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATYA-916/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/SATYA-916/LEETCODE/tree/main/0139-word-break/) | Medium |
 | [0162-find-peak-element](https://github.com/SATYA-916/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/SATYA-916/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0260-single-number-iii](https://github.com/SATYA-916/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SATYA-916/LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0139-word-break](https://github.com/SATYA-916/LEETCODE/tree/main/0139-word-break/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SATYA-916/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/SATYA-916/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/SATYA-916/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SATYA-916/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATYA-916/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/SATYA-916/LEETCODE/tree/main/0139-word-break/) | Medium |
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/SATYA-916/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SATYA-916/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/SATYA-916/LEETCODE/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SATYA-916/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0592-fraction-addition-and-subtraction](https://github.com/SATYA-916/LEETCODE/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SATYA-916/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -312,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SATYA-916/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/SATYA-916/LEETCODE/tree/main/0139-word-break/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,4 +393,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SATYA-916/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/SATYA-916/LEETCODE/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
