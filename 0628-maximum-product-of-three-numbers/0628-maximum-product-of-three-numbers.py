@@ -11,7 +11,6 @@ class Solution:
                 n2=i
             elif i>n3:
                 n3=i
-        for i in n:
             if i<m1:
                 m2=m1
                 m1=i
