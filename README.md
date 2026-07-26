@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/SATYA-916/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/SATYA-916/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0260-single-number-iii](https://github.com/SATYA-916/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/SATYA-916/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/SATYA-916/LEETCODE/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SATYA-916/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/SATYA-916/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/SATYA-916/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SATYA-916/LEETCODE/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/SATYA-916/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/SATYA-916/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
 | [0592-fraction-addition-and-subtraction](https://github.com/SATYA-916/LEETCODE/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/SATYA-916/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1323-maximum-69-number](https://github.com/SATYA-916/LEETCODE/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SATYA-916/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
