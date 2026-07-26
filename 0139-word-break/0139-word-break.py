@@ -4,16 +4,12 @@ class Solution:
         def help(x):
             if x == s:
                 return True
-
             if not s.startswith(x):
                 return False
-
             for word in w:
                 if help(x + word):
                     return True
-
             return False
-
         return help("")
 
 # Synced seamlessly with LeetHub Pro
