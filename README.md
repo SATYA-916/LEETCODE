@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/SATYA-916/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/SATYA-916/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0260-single-number-iii](https://github.com/SATYA-916/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
+| [0486-predict-the-winner](https://github.com/SATYA-916/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SATYA-916/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/SATYA-916/LEETCODE/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SATYA-916/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/SATYA-916/LEETCODE/tree/main/0139-word-break/) | Medium |
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
+| [0486-predict-the-winner](https://github.com/SATYA-916/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [1048-longest-string-chain](https://github.com/SATYA-916/LEETCODE/tree/main/1048-longest-string-chain/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/SATYA-916/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SATYA-916/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/SATYA-916/LEETCODE/tree/main/0060-permutation-sequence/) | Hard |
 | [0070-climbing-stairs](https://github.com/SATYA-916/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
+| [0486-predict-the-winner](https://github.com/SATYA-916/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0592-fraction-addition-and-subtraction](https://github.com/SATYA-916/LEETCODE/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SATYA-916/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/SATYA-916/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/SATYA-916/LEETCODE/tree/main/0060-permutation-sequence/) | Hard |
 | [0233-number-of-digit-one](https://github.com/SATYA-916/LEETCODE/tree/main/0233-number-of-digit-one/) | Hard |
+| [0486-predict-the-winner](https://github.com/SATYA-916/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,4 +426,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/SATYA-916/LEETCODE/tree/main/0139-word-break/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/SATYA-916/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
