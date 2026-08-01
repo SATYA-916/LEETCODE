@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SATYA-916/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1048-longest-string-chain](https://github.com/SATYA-916/LEETCODE/tree/main/1048-longest-string-chain/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/SATYA-916/LEETCODE/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SATYA-916/LEETCODE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SATYA-916/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-longest-happy-prefix](https://github.com/SATYA-916/LEETCODE/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SATYA-916/LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SATYA-916/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/SATYA-916/LEETCODE/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SATYA-916/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SATYA-916/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SATYA-916/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/SATYA-916/LEETCODE/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
