@@ -6,7 +6,9 @@ class Solution(object):
         """
         n=set(nums)
         res=[]
-        for i in range(min(nums)+1,max(nums)):
+        x=min(nums)+1
+        y=max(nums)
+        for i in range(x,y):
             if i not in n:
                 res.append(i)
         return res
