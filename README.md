@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/SATYA-916/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SATYA-916/LEETCODE/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SATYA-916/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SATYA-916/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SATYA-916/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SATYA-916/LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SATYA-916/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SATYA-916/LEETCODE/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SATYA-916/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SATYA-916/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SATYA-916/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SATYA-916/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SATYA-916/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
