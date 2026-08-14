@@ -1,18 +1,17 @@
 from collections import Counter
 class Solution(object):
     def maximumLengthSubstring(self, s):
-        def chk(x):
-            c=Counter(x)
-            for i in c:
-                if c[i]>2:
-                    return False
-            return True
+        c=Counter(s)
+        for i in c:
+            c[i]=0
         i,j,ans=0,0,0
         while(j<len(s)):
-            if chk(s[i:j+1]):
+            if c[s[j]]<2:
                 ans=max(ans,j-i+1)
+                c[s[j]]+=1
                 j+=1
             else:
+                c[s[i]]-=1
                 i+=1
         return ans
 
