@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/SATYA-916/LEETCODE/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SATYA-916/LEETCODE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SATYA-916/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SATYA-916/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SATYA-916/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/SATYA-916/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SATYA-916/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SATYA-916/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SATYA-916/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SATYA-916/LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SATYA-916/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/SATYA-916/LEETCODE/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SATYA-916/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SATYA-916/LEETCODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -382,14 +385,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/SATYA-916/LEETCODE/tree/main/1392-longest-happy-prefix/) | Hard |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/SATYA-916/LEETCODE/tree/main/1392-longest-happy-prefix/) | Hard |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/SATYA-916/LEETCODE/tree/main/1392-longest-happy-prefix/) | Hard |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,4 +479,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/SATYA-916/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
 <!---LeetCode Topics End-->
