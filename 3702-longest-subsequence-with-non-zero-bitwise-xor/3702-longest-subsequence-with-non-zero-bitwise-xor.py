@@ -1,14 +1,17 @@
-class Solution:
-    def longestSubsequence(self, nums: List[int]) -> int:
-        s=0
+class Solution(object):
+    def longestSubsequence(self, nums):
+        x=0
+        nonzero=0
         for i in nums:
-            s^=i
-        if s!=0:
-            return len(nums)
-        for i in nums:
+            x=x^i
             if i!=0:
-                return len(nums)-1
-        return 0
+                nonzero+=1
+        if x!=0:
+            return len(nums)
+        elif nonzero>0:
+            return len(nums)-1
+        else:
+            return 0
         
 
 # Synced seamlessly with LeetHub Pro
