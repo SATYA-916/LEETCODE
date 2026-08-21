@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SATYA-916/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SATYA-916/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SATYA-916/LEETCODE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SATYA-916/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SATYA-916/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SATYA-916/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/SATYA-916/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/SATYA-916/LEETCODE/tree/main/3006-find-beautiful-indices-in-the-given-array-i/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SATYA-916/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SATYA-916/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SATYA-916/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/SATYA-916/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SATYA-916/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SATYA-916/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SATYA-916/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SATYA-916/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SATYA-916/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SATYA-916/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-binary-gap](https://github.com/SATYA-916/LEETCODE/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/SATYA-916/LEETCODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/SATYA-916/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SATYA-916/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SATYA-916/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -450,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SATYA-916/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SATYA-916/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SATYA-916/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SATYA-916/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -458,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SATYA-916/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SATYA-916/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Stack
