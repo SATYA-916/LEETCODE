@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SATYA-916/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SATYA-916/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/SATYA-916/LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SATYA-916/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SATYA-916/LEETCODE/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SATYA-916/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SATYA-916/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3731-find-missing-elements](https://github.com/SATYA-916/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SATYA-916/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SATYA-916/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SATYA-916/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SATYA-916/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SATYA-916/LEETCODE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/SATYA-916/LEETCODE/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SATYA-916/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/SATYA-916/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SATYA-916/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SATYA-916/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
