@@ -1,18 +1,7 @@
 class Solution:
     def firstStableIndex(self, n: list[int], k: int) -> int:
-        ma,mi=[],[]
-        maxi=float('-inf')
-        mini=float('inf')
-        for i in n:
-            maxi=max(maxi,i)
-            ma.append(maxi)
-        for i in n[::-1]:
-            mini=min(mini,i)
-            mi.append(mini)
-        mi=mi[::-1]
         for i in range(len(n)):
-            if ma[i]-mi[i]<=k:
-                print(ma[i],mi[i],i,k)
+            if max(n[:i+1])-min(n[i:])<=k:
                 return i
         return -1
 
