@@ -1,5 +1,6 @@
 class Solution:
     def evaluate(self, st: str, knowledge: list[list[str]]) -> str:
+        
         d,ans,res,s={},"","",0
         for i in knowledge:
             d[i[0]]=i[1]
@@ -19,6 +20,8 @@ class Solution:
                 ans+=i
             else:
                 res+=i
+        # If you are struggling with the nested bracket logic, check the "Video Solutions" 
+        # section in the Solutions tab on the left pane of your editor!
         print(res)
         return res
 
