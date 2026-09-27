@@ -1,19 +1,18 @@
 class Solution:
     def reverseParentheses(self, s: str) -> str:
-        o,re=[],[]
-        for i in range(len(s)):
-            if s[i]=='(':
-                o.append(i)
+        st,ans,i=[],[],0
+        while(i<len(s)):
             if s[i]==')':
-                re.append([o.pop(),i])
-        for i in re:
-            print(s[:i[0]],s[i[1]:i[0]:-1],s[i[1]:])
-            s=s[:i[0]]+s[i[1]:i[0]:-1]+s[i[1]:]
-        re=""
-        for i in s:
-            if i not in " ()":
-                re+=i
-        return re
+                while(st[-1]!='('):
+                    ans.append(st.pop())
+                st.pop()
+                st+=ans
+                ans=[]
+            else:
+                st.append(s[i])
+            i+=1
+        return "".join(st)
+                
 
 
 # Synced seamlessly with LeetHub Pro
