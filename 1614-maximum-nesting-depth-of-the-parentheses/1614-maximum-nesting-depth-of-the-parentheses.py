@@ -1,13 +1,13 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        l=[]
+        l=0
         m=0
         for i in s:
             if i=='(':
-                l.append(i)
-                m=max(m,len(l))
+                l+=1
+                m=max(m,l)
             if i==')':
-                l.pop()
+                l-=1
         return m
 
 # Synced seamlessly with LeetHub Pro
